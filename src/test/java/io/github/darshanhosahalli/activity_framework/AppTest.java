@@ -1,4 +1,4 @@
-package com.activity.framework;
+package io.github.darshanhosahalli.activity_framework;
 
 import static org.junit.Assert.assertTrue;
 

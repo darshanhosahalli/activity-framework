@@ -1,4 +1,4 @@
-package com.activity.framework;
+package io.github.darshanhosahalli.activity_framework;
 
 import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.ProceedingJoinPoint;

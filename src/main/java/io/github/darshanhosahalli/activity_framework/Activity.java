@@ -1,4 +1,4 @@
-package com.activity.framework;
+package io.github.darshanhosahalli.activity_framework;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
